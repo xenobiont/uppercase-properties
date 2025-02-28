@@ -1,6 +1,6 @@
 # Task
 
-Built a type that will map the original object's type to uppercased type
+Write the UppercaseObject type that will map the original object's type to uppercased type
 
 Only properties, which keys are strings, should be uppercased
 
