@@ -10,9 +10,9 @@ type Foo = {
 };
 
 const foo = {
-  a: 'a string',
-  b: 'b string',
-  c: 12
+  foo: 'foo string',
+  bar: 'bar string',
+  baz: 12
 } as const;
 
 type Uppercased = UppercaseObject<typeof foo>
