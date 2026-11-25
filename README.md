@@ -6,11 +6,11 @@ declare the const 'foo' variable  object that will be the object with 2 string p
 Ensure that it's typed with literal string types (properties types are not widened to 'string')
 
 
-2. Write the UppercaseObject type that will convert the original object'sproperties types to uppercase.
+2. Write the UppercaseObject type that will convert the original object's properties types to uppercase.
 
 Only properties, which keys are strings, should be uppercased
 
-Apply it to the Foo type and the type of the foovariable that you declared. you shoukd get identical results.
+Apply it to the Foo type and the type of the foo variable that you declared. you should get identical results.
 
 # Hints
 
